@@ -4,6 +4,7 @@
 I'm passionate about building clean, scalable test automation frameworks and ensuring software quality across web, mobile, API, and security-focused projects.
 
 🧰 **Skills:** Selenium | Playwright | Postman | JMeter | Python | TypeScript | CI/CD 
+
 📂 **Projects:**  
 - 🔗 [Selenium-Python Automation Framework](https://github.com/BhavarthKandoriya/selenium-automation-framework)
 - 🔗 [Playwright-Typescript Automation Framework](https://github.com/BhavarthKandoriya/playwright-tests)
